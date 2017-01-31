@@ -1,0 +1,18 @@
+[20-Jan-2017 02:42:54 UTC] PHP Fatal error:  Call to undefined function dd() in /home/fenixmultimedia/public_html/hectorzapata/index.php on line 21
+[20-Jan-2017 02:43:16 UTC] PHP Warning:  require(/home/fenixmultimedia/public_html/hectorzapata/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/fenixmultimedia/public_html/hectorzapata/index.php on line 21
+[20-Jan-2017 02:43:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/fenixmultimedia/public_html/hectorzapata/../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/fenixmultimedia/public_html/hectorzapata/index.php on line 21
+[20-Jan-2017 02:43:52 UTC] PHP Warning:  require(/home/fenixmultimedia/public_html/hectorzapata/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/fenixmultimedia/public_html/hectorzapata/index.php on line 21
+[20-Jan-2017 02:43:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/fenixmultimedia/public_html/hectorzapata/../bootstrap/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/fenixmultimedia/public_html/hectorzapata/index.php on line 21
+[22-Jan-2017 21:28:44 UTC] PHP Fatal error:  Call to undefined function cfrs_token() in /home/fenixmultimedia/public_html/hectorzapata/core/storage/framework/views/22a2cf4687985815d14b457afe4de16a on line 29
+[24-Jan-2017 02:28:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 21
+[24-Jan-2017 03:11:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 39
+[24-Jan-2017 04:09:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 49
+[26-Jan-2017 01:43:37 UTC] PHP Fatal error:  Class 'Actor' not found in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 21
+[26-Jan-2017 01:59:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 21
+[26-Jan-2017 01:59:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 21
+[26-Jan-2017 03:21:41 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/appController.php on line 21
+[30-Jan-2017 01:52:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Actor' not found in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/ApiController.php on line 51
+[30-Jan-2017 01:52:33 UTC] PHP Fatal error:  Class 'Actor' not found in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/ApiController.php on line 51
+[30-Jan-2017 01:52:42 UTC] PHP Fatal error:  Class 'App\Http\Actor' not found in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/ApiController.php on line 51
+[30-Jan-2017 02:40:51 UTC] PHP Fatal error:  Call to a member function update() on null in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/ApiController.php on line 114
+[30-Jan-2017 02:42:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/fenixmultimedia/public_html/hectorzapata/core/app/Http/Controllers/ApiController.php on line 124

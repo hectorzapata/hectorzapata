@@ -1,0 +1,46 @@
+body{
+  height: 100%;
+}
+.ui.grid{
+  height: 100%;
+}
+#map{
+  height: 100%;
+  width: 100%;
+}
+li {
+  list-style: none;
+  /* height: 100%; */
+}
+
+.pausar, .reanudar {
+  margin: 0px auto !important;
+  margin-top: 1em !important;
+}
+
+.sixteen.wide.column.barra {
+  padding: 1em 2em;
+}
+
+.ui.grid.container {
+  margin: 0;
+}
+.column {
+  height: 50%;
+}
+.ui.tiny.progress.barraEspera {
+  margin: 0;
+}
+td.acciones {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+table thead tr th:last-child {
+  width: 300px;
+}
+.porcentaje {
+  /* width: 300px; */
+  width: 100%;
+  margin: 0 !important;
+}
